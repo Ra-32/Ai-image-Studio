@@ -49,7 +49,7 @@ AI-Image-Studio/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-└── demo.mp4 (Optional)
+
 ```
 
 ---
@@ -154,8 +154,7 @@ Add screenshots here.
 Example:
 
 ```
-<img width="1902" height="922" alt="Screenshot 2026-07-17 205207" src="https://github.com/user-attachments/assets/31ef4069-b930-4f66-9fa5-aa66bb8d51ca" />
-
+screenshots/home.png
 ```
 
 ---
@@ -173,17 +172,7 @@ requests
 
 ---
 
-# 🙏 Acknowledgements
 
-Developed as part of
-
-**MirAI School of Technology**
-
-Virtual Summer Internship 2026
-
-AI Builder Track
-
----
 
 # 👨‍💻 Author
 
