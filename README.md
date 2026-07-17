@@ -154,7 +154,8 @@ Add screenshots here.
 Example:
 
 ```
-screenshots/home.png
+screenshots/home.png.png
+
 ```
 
 ---
