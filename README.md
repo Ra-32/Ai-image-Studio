@@ -148,13 +148,8 @@ The application will open automatically in your browser.
 ---
 
 # 📷 Screenshots
-
-Add screenshots here.
-
-Example:
-
 ```
-screenshots/home.png.png
+screenshots/home.png
 
 ```
 
